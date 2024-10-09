@@ -1,4 +1,4 @@
-# ISA
+# ISA- Computer Architecture Project
 
 This project simulates the operation of a custom RISC-based CPU named `SIMP`, along with various input/output devices like LEDs, a 7-segment display, a disk drive, and a monochromatic monitor. The project involves writing both an **assembler** and a **simulator** for this CPU, using C programming language. It also includes several assembly programs that will run on this simulated environment.
 
