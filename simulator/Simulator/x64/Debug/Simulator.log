@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Simulator.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  sim.c
+C:\Users\shani\Downloads\2024_semb(1)\2024_semb\Simulator\Simulator\sim.c(19,1): warning C4005: 'REGS': macro redefinition
+C:\Users\shani\Downloads\2024_semb(1)\2024_semb\Simulator\Simulator\sim.c(13,1): message : see previous definition of 'REGS'
+  Simulator.vcxproj -> C:\Users\shani\Downloads\2024_semb(1)\2024_semb\Simulator\x64\Debug\sim.exe
